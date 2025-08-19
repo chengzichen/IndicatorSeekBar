@@ -1,8 +1,6 @@
 package com.warkiz.widget;
 
-/**
- * created by zhuangguangquan on 2017/9/11
- */
+
 
 public interface TickMarkType {
     /**

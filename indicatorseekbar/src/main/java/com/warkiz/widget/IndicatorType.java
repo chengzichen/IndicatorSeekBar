@@ -1,8 +1,6 @@
 package com.warkiz.widget;
 
-/**
- * created by zhuangguangquan on  2017/9/9
- */
+
 public interface IndicatorType {
     /**
      * don't have indicator to show.
